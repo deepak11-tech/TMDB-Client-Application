@@ -4,6 +4,6 @@ TMDB client application that fetch movies from the movie database and display li
 
 #Usage
 
-Run the index.html for run the TMDb Client application.
+Run the index.html for run the TMDB Client application.
 
 
